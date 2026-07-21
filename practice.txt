@@ -1,5 +1,4 @@
 I should learn about this
 
-get - curl -X GET "http:/127.0.0.1:8000/paramater=gmail"
-
-curl.exe -X POST -H "Content-Type: application/json" "http://127.0.0.1:8000/items/?item=apple"
+cd C:\Users\katoh\Downloads\PYTOHON_FAST_API
+uvicorn main:app --reload --port 8080
